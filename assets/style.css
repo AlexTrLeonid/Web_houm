@@ -1,0 +1,28 @@
+body {
+    background-color: lightgray;
+}
+.wrapper {
+    font-size: 35px;
+    color: blue;
+}
+.toc_title {
+    font-size: 30px;
+    color: black;
+}
+.title {
+    font-size: 25px; color: black;
+}
+.wrapper_1 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    }
+.box_1 {
+    margin-top: 35px;
+    margin-left: 400px;
+    width: 300px;
+    }
+    .wrapper_2 {
+        margin-left: 15px;
+    }
